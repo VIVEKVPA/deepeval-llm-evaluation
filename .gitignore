@@ -1,0 +1,5 @@
+.env
+**/.deepeval
+.venv
+.deepeval
+.pytest_cache
